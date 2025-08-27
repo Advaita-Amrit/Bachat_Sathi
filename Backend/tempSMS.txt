@@ -1,0 +1,5 @@
+# --- Example Usage ---
+# sms1 = "Rs. 450.00 debited from your A/c for a purchase at Zomato."
+# sms2 = "Your OTP for login is 123456. Do not share it."
+# sms3 = "You have received Rs. 5000 credited to your account from YourCompany."
+# sms4 = "Alert: A transaction of INR 250 was made on your card at Starbucks."
